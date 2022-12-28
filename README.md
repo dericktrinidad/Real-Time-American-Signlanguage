@@ -5,4 +5,4 @@ The CustomASL_TrainedModel_99ValAcc folder contains the trained model.
 FinalProject_Model_Testing.ipynb was used to test our trained model.
 FinalProject_Handtracking.py is our main project that usues mediapipe library for hand tracking and our trained model for hand gesture classification.
 
-The Demo folder contains a video demo of the project
+The Demo folder contains a video demo of the project.
